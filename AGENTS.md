@@ -6,6 +6,20 @@ This repository is a personal markdown wiki. The repo itself is the durable arti
 
 Maintain a lightweight, expressive, personal knowledge base for 孙浩然. The goal is not exhaustive documentation. The goal is to preserve a small number of stable entrypoints, keep them readable, and let them grow over time.
 
+## Security guardrail
+
+**MUST NEVER INGEST OR SYNTHESIZE COMPANY INTERNAL DATA, CREDENTIALS, OR SENSITIVE BUSINESS LOGIC INTO THIS PERSONAL WIKI.**
+
+**ALL CONTENT MUST BE DESENSITIZED BEFORE IT IS WRITTEN HERE.**
+
+This repository is for a personal wiki only. Personal and team knowledge must be separated.
+
+- Company or team-specific knowledge should go to an internal team wiki hosted in the appropriate internal repository.
+- If a source mixes personal context with team or business context, split it during ingest.
+- Only write desensitized, generalizable methods, lessons, and abstractions into this repository.
+- Never store secrets, tokens, keys, passwords, cookies, private URLs, internal IDs, customer data, unpublished metrics, or sensitive operational details here.
+- When in doubt, do not write the content into this repo.
+
 ## Core structure
 
 - `README.md`: homepage / personal dashboard
