@@ -4,6 +4,7 @@
 
 ## Notes
 
+- [7.30：把流程型 AI 产品继续收敛成可评审的 MVP](work/2026-07-30-workflow-ai-mvp-prd.md) — 关于将复杂 AI 工作流拆成固定模板、流程节点契约和可评审 PRD 的一次脱敏复盘。
 - [7.29：一次流程型 AI 产品设计的收敛与判断](work/2026-07-29-ai-flow-product-design.md) — 关于流程型 AI 产品如何从开放式想象收敛到可落地 MVP，以及“状态、断点、证据”三件事的产品判断。
 
 ## Possible branches

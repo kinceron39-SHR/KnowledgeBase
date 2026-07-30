@@ -15,6 +15,7 @@
 
 ## Work Notes
 
+- [7.30：把流程型 AI 产品继续收敛成可评审的 MVP](sections/work/2026-07-30-workflow-ai-mvp-prd.md) — 两个固定工作流模板、流程节点契约与 MVP PRD 的脱敏复盘。
 - [7.29：一次流程型 AI 产品设计的收敛与判断](sections/work/2026-07-29-ai-flow-product-design.md) — 流程型 AI 产品的 MVP 收敛、风险确认与状态闭环。
 
 ## System

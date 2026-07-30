@@ -21,3 +21,12 @@ Updated:
 - `wiki/sections/work/2026-07-29-ai-flow-product-design.md`
 - `wiki/sections/work.md`
 - `wiki/index.md`
+
+## [2026-07-30] ingest | desensitized 7.30 work reflection
+
+Added a desensitized work note about turning workflow-oriented AI product direction into fixed workflow templates, node contracts, and an MVP PRD.
+
+Updated:
+- `wiki/sections/work/2026-07-30-workflow-ai-mvp-prd.md`
+- `wiki/sections/work.md`
+- `wiki/index.md`
