@@ -13,6 +13,10 @@
 - [工作 / Work](sections/work.md) — 项目、职责、推进中的问题与复盘
 - [思考 / Thinking](sections/thinking.md) — 问题意识、世界观、长期命题
 
+## Work Notes
+
+- [7.29：一次流程型 AI 产品设计的收敛与判断](sections/work/2026-07-29-ai-flow-product-design.md) — 流程型 AI 产品的 MVP 收敛、风险确认与状态闭环。
+
 ## System
 
 - [Schema / Maintainer Guide](../AGENTS.md) — 仓库维护约定
