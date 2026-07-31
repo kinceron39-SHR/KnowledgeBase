@@ -1,4 +1,4 @@
-# KInceron的知识库
+# KInceron 的知识库
 
 > 一个会和我一起生长的个人 Wiki。
 
